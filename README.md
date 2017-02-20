@@ -13,7 +13,8 @@ To use:
 7. Repeat at least 8 times for a total of 9 scans (reccomended at least 3 scans per color/shade)
 
 Classification:
-1. Call Classifier.generateClassifier() to build random forest
-2. Create new Color from color sensor
-3. Pass into Classifier.ClassifyColor, which will return the name of the closest matching color.
+
+1. Call Classifier.generateClassifier() to build random forest  
+2. Create new Color from color sensor  
+3. Pass into Classifier.ClassifyColor, which will return the name of the closest matching color.  
 
